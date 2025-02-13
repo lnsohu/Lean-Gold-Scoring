@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "appId": "rZymGMT78A95qj0XMcw9DUQq-gzGzoHsz",
+      "appKey": "AhcT9kUYL19HxFCa9DwzcprJ",
+      "masterKey": "X1WHIoULGBVl0ERUMdhsM0ZO",
+      "hookKey": "YOUR_HOOK_KEY",
+      "appName": "Lean-Gold-Scoring"
+    }
+  ]
+}
