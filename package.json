@@ -1,5 +1,5 @@
 {
-  "name": "Lean-Gold-Scoring",
+  "name": "my-scoring-app",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -13,5 +13,8 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3"
+  },
+  "engines": {
+    "node": "16.x"
   }
 }
